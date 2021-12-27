@@ -1,4 +1,12 @@
 <h1>Index Page</h1>
-<h2>Hello World!</h2>
-<br />
-<p>test</p>
+<div class="textField", id="i1">
+  Welcome
+  <br />
+  To
+  <br />
+  The
+  <br />
+  Index
+  <br />
+  Page
+</div>
