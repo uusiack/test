@@ -1,12 +1,20 @@
-<h1>Index Page</h1>
-<div class="textField", id="i1">
-  Welcome
-  <br />
-  To
-  <br />
-  The
-  <br />
-  Index
-  <br />
-  Page
-</div>
+<head>
+    <link rel="stylesheet", type="text/css", href="https://raw.githubusercontent.com/uusiack/test/main/main.css">
+    <title>Test</title>
+</head>
+<body>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://raw.githubusercontent.com/uusiack/test/main/main.js"></script>
+    <h1>Index Page</h1>
+    <div class="textField", id="i1">
+        Welcome
+        <br />
+        To
+        <br />
+        The
+        <br />
+        Index
+        <br />
+        Page
+    </div>
+</body>
