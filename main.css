@@ -1,0 +1,43 @@
+body
+{
+    background-color: rgb(23, 21, 124);
+    align-items: center;
+}
+
+.textField
+{
+    margin: auto;
+    width: 60%;
+    height: 50%;
+    padding: 10px;
+    color: rgb(124, 122, 201);
+    background-color: rgb(1, 0, 85);
+    border-color: rgb(1, 0, 39);
+    border-radius: 1px;
+    border-style: solid;
+}
+
+h1
+{
+    color: rgb(73, 71, 185);
+}
+
+h2
+{
+    color: rgb(73, 71, 185);
+}
+
+h3
+{
+    color: rgb(73, 71, 185);
+}
+
+h4
+{
+    color:rgb(73, 71, 185);
+}
+
+p
+{
+    color: rgb(73, 71, 185);
+}
